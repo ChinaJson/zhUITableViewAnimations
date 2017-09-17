@@ -15,7 +15,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ```objc
   _tableView = [[UITableView alloc] initWithFrame:self.view.frame style:UITableViewStylePlain];
-  _tableView.zh_reloadAnimationType = self.type;
+  _tableView.zh_reloadAnimationType = zhTableViewAnimationTypeFade;
 ```
 
 ## Preview   
