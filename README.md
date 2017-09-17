@@ -11,6 +11,10 @@ Only need a line of code, you can set animation effects for UITableView.
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+## Preview   
+
+<img src="https://github.com/snail-z/zhUITableViewAnimations/blob/master/Preview/zhUITableViewAnimations.gif?raw=true?raw=true" width="204px" height="365px">
+
 ## Requirements
 
 - Requires iOS 7.0 or later
