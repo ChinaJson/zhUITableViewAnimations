@@ -20,7 +20,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Preview   
 
-<img src="https://github.com/snail-z/zhUITableViewAnimations/blob/master/Preview/zhUITableViewAnimations.gif?raw=true?raw=true" width="204px" height="365px">
+<#img src="https://github.com/snail-z/zhUITableViewAnimations/blob/master/Preview/zhUITableViewAnimations.gif?raw=true?raw=true" width="204px" height="365px">
 
 ## Requirements
 
